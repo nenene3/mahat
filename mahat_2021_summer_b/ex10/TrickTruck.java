@@ -16,7 +16,6 @@ public class TrickTruck {
             current = current.getNext();
         }
         return false;
-
     }
 
     public boolean existCar(int number) {
